@@ -4,6 +4,7 @@ create a structure using the RSpec file provided
 reserve your desired resources we have used Cornell InstaGeni
 on the node-1 and node-2 run the Packages.sh to install the required packages to run the code and build the graph
 on Server run the Serverside.sh to configure it
+
 after running the above file on server a notepad is open and you are supposed to add below lines to avoid the issues with regular port : 
 -> type i and move the cursor near the files to add the below lines
 
