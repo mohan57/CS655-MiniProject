@@ -1,5 +1,13 @@
 # CS655-MiniProject
 
+##Group Members: 
+
+###Mohan sai Krishna Thota mohanta@bu.edu
+
+###Ajit Balla ajit2001@bu.edu
+
+###Srinivas Chellaboina srinevas@bu.edu
+
 create a structure using the RSpec file provided 
 
 reserve your desired resources we have used Cornell InstaGeni
