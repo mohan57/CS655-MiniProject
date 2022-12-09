@@ -1,12 +1,14 @@
 # CS655-MiniProject
 
-##Group Members: 
+#Group Members: 
+********************************************
+Mohan sai Krishna Thota mohanta@bu.edu
 
-###Mohan sai Krishna Thota mohanta@bu.edu
+Ajit Balla ajit2001@bu.edu
 
-###Ajit Balla ajit2001@bu.edu
+Srinivas Chellaboina srinevas@bu.edu
 
-###Srinivas Chellaboina srinevas@bu.edu
+*******************************************
 
 create a structure using the RSpec file provided 
 
