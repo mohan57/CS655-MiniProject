@@ -9,7 +9,8 @@ after running the above file on server a notepad is open and you are supposed to
 -> type i and move the cursor near the files to add the below lines
 
  CONFIG proxy.config.url_remap.remap_required INT 0
-  CONFIG proxy.config.reverse_proxy.enabled INT 0
+ 
+ CONFIG proxy.config.reverse_proxy.enabled INT 0
 
 
 ->After adding the line , enter ESC 
